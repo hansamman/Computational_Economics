@@ -1,4 +1,4 @@
-# CE
+# Comptational Economics
 One of the best ways to learn computational economics is to do computational economics. One of the best ways to do computational economics is to begin with existing models that you modify as you experiment with them and this is the approach we take in this book.
 
 Each chapter presents an economic model. First, we discuss the economics and mathematics of the model and then analyze its computational form. This process enables one to learn the economics and the mathematics of the problem area as well as the computational methods that are used in that area. For example, in studying economic growth we make use of a Ramsey-type model. The economics of growth theory are first discussed along with the equations that model this process. Then the software representation of the model is presented so that the reader can see how the model can be solved on a computer. The student can then modify the model in order to analyze its sensitivity to various parameters and functional specifications. In the process of experimenting with the model, one can gain an improved understanding of both the software and the economic modeling.
